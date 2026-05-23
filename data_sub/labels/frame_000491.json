@@ -1,0 +1,32 @@
+{
+    "predictions": [
+        {
+            "x": 468,
+            "y": 459,
+            "width": 22,
+            "height": 15,
+            "confidence": 0.7755541801452637,
+            "class": "Enemy",
+            "class_id": 0,
+            "detection_id": "d024e592-87b3-4d07-8394-5fa9218a32ad",
+            "image_path": "/home/hohuy/Desktop/Code/Object Detection/data_sub/frame_000491.jpg",
+            "prediction_type": "ObjectDetectionModel"
+        },
+        {
+            "x": 355,
+            "y": 417,
+            "width": 60,
+            "height": 19,
+            "confidence": 0.6493130922317505,
+            "class": "Enemy",
+            "class_id": 0,
+            "detection_id": "2fd3e15a-2ee9-49eb-ba0a-2a641dcf72dc",
+            "image_path": "/home/hohuy/Desktop/Code/Object Detection/data_sub/frame_000491.jpg",
+            "prediction_type": "ObjectDetectionModel"
+        }
+    ],
+    "image": {
+        "width": "1280",
+        "height": "720"
+    }
+}

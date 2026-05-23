@@ -1,0 +1,20 @@
+{
+    "predictions": [
+        {
+            "x": 122,
+            "y": 487,
+            "width": 25,
+            "height": 25,
+            "confidence": 0.47546905279159546,
+            "class": "Enemy",
+            "class_id": 0,
+            "detection_id": "db415454-5756-4832-8567-cf9d526612b5",
+            "image_path": "/home/hohuy/Desktop/Code/Object Detection/data_sub/frame_000498.jpg",
+            "prediction_type": "ObjectDetectionModel"
+        }
+    ],
+    "image": {
+        "width": "1280",
+        "height": "720"
+    }
+}

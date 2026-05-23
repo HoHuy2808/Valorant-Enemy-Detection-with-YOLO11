@@ -1,0 +1,44 @@
+{
+    "predictions": [
+        {
+            "x": 263,
+            "y": 471,
+            "width": 22,
+            "height": 19,
+            "confidence": 0.7272061705589294,
+            "class": "Enemy",
+            "class_id": 0,
+            "detection_id": "a4391f5d-fc7d-4064-b74b-df27519d3ba0",
+            "image_path": "/home/hohuy/Desktop/Code/Object Detection/data_sub/frame_000508.jpg",
+            "prediction_type": "ObjectDetectionModel"
+        },
+        {
+            "x": 406,
+            "y": 457,
+            "width": 17,
+            "height": 18,
+            "confidence": 0.6582330465316772,
+            "class": "Enemy",
+            "class_id": 0,
+            "detection_id": "2e94bd5c-4edf-4136-9e06-ad8a3ecfd8d8",
+            "image_path": "/home/hohuy/Desktop/Code/Object Detection/data_sub/frame_000508.jpg",
+            "prediction_type": "ObjectDetectionModel"
+        },
+        {
+            "x": 640,
+            "y": 383,
+            "width": 30,
+            "height": 53,
+            "confidence": 0.6453443765640259,
+            "class": "Enemy",
+            "class_id": 0,
+            "detection_id": "050e23dc-a6ad-4db1-844b-2895ea15744e",
+            "image_path": "/home/hohuy/Desktop/Code/Object Detection/data_sub/frame_000508.jpg",
+            "prediction_type": "ObjectDetectionModel"
+        }
+    ],
+    "image": {
+        "width": "1280",
+        "height": "720"
+    }
+}
